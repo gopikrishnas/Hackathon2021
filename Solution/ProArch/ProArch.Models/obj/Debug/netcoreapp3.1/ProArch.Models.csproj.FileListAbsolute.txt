@@ -1,0 +1,9 @@
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\bin\Debug\netcoreapp3.1\ProArch.Models.deps.json
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\bin\Debug\netcoreapp3.1\ProArch.Models.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\bin\Debug\netcoreapp3.1\ProArch.Models.pdb
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.AssemblyInfoInputs.cache
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.AssemblyInfo.cs
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.csproj.CoreCompileInputs.cache
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.pdb
+F:\Gopikrishna Works\My Works\ProArch\ProArch.Models\obj\Debug\netcoreapp3.1\ProArch.Models.csprojAssemblyReference.cache

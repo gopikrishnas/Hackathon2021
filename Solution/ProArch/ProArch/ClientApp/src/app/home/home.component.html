@@ -1,0 +1,19 @@
+<h1>Matches by Venue</h1>
+
+<div *ngFor="let insight of instightsByVenue">
+  {{insight.name}}    ----  {{insight.count}}
+</div>
+
+
+<h1>Matches by Batting Team</h1>
+
+<div *ngFor="let insight of instightsByBattingTeam">
+ {{insight.name}}    ----  {{insight.count}}
+</div>
+
+
+<h1>Matches by Bowling Team</h1>
+
+<div *ngFor="let insight of instightsByBowlingTeam">
+ {{insight.name}}    ----  {{insight.count}}
+</div>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFYDMsMSb9Xm4Tdyy6UUS37VWN6slwjxH4iFAFSF8YfnmZH0OzrRSJYxBVSqGOV0jcTPjO0S/Hle9n4Oj/PSxQ==",
+  "success": true,
+  "projectFilePath": "F:\\Gopikrishna Works\\My Works\\ProArch\\ProArch.DataLayer\\ProArch.DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gopi\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
+    "C:\\Users\\Gopi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

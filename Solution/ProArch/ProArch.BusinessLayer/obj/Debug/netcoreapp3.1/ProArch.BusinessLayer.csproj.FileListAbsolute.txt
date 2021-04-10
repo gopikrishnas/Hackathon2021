@@ -1,0 +1,14 @@
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.csprojAssemblyReference.cache
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.AssemblyInfoInputs.cache
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.AssemblyInfo.cs
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.BusinessLayer.deps.json
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.BusinessLayer.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.BusinessLayer.pdb
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.DataLayer.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.Models.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.DataLayer.pdb
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\bin\Debug\netcoreapp3.1\ProArch.Models.pdb
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.csproj.CopyComplete
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.dll
+F:\Gopikrishna Works\My Works\ProArch\ProArch.BusinessLayer\obj\Debug\netcoreapp3.1\ProArch.BusinessLayer.pdb
